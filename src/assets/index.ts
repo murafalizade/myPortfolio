@@ -26,9 +26,17 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
+import edulogy from "./edulogy.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import cybernet from "./company/cybernet_llc_logo.jpeg"
+import cubics from "./company/cubicstechnology_logo.jpeg"
+import ailab from "./company/ailab_az_logo.jpeg"
+import risk from "./company/r__i__s__k__logo.jpeg"
+import resootime from "./resootime.png";
+import badminton from "./badminton.png";
+import dashboard from "./dashboard.png";
+
 
 export {
   logo,
@@ -56,7 +64,13 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
+  edulogy,
   jobit,
   tripguide,
+  cybernet,
+    cubics,
+  ailab,
+    risk,
+  resootime,
+  badminton,dashboard
 };
